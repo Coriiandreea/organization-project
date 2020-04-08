@@ -1,0 +1,7 @@
+10 actiuni/interogari:
+	- addDepartment, removeDepartament, getDepartmentByName, addEmployeeToDepartment,
+	- getEmployeesFromDepartamentSortedByLastname, getEmployeesFromDepartamentSortedByAge, getEmployeesFromDepartamentSortedBySalary
+	- getEmployeeWithLowestSalaryFromDepartment, getEmployeeWithHighestSalaryFromDepartment
+	- changeManager
+8 obiecte diferite:
+	- Employee, Departament, Manager, Salary, OrganizationService, EmployeeComparatorByLastname, EmployeeComparatorByAge, EmployeeComparatorBySalary
